@@ -1,0 +1,15 @@
+{
+    "name": "johnson/bettam",
+    "authors": [
+        {
+            "name": "Johnson Epo",
+            "email": "johnsonepo@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
